@@ -613,7 +613,7 @@ body {
 }
 
 body.on {
-    background-image: url(/img/giphy\ \(2\).gif);
+    background-image: url(./img/giphy\ \(2\).gif);
     transition: all 0.4s;
 }
 
